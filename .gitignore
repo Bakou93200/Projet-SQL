@@ -1,0 +1,6 @@
+# Base générée par build_database.py
+ventes.db
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
